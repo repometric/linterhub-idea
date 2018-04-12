@@ -1,0 +1,1 @@
+Linterhub IDEA plugin
